@@ -14,7 +14,7 @@ public class WhileLoop {
        euro = Integer.parseInt(JOptionPane.showInputDialog("Please enter the number of euro"));
 
 
-         while(euro  0) {
+         while(euro > 0) {
              euroTotal = euro * rate;
 
          }
